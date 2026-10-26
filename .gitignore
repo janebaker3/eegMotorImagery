@@ -1,0 +1,22 @@
+# Raw and derived EEG data: downloaded on first run, not tracked.
+data/
+results/
+
+# Python environments, local metadata and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+.vscode/
+data/
+results/
+results_ica/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.DS_Store
